@@ -15,7 +15,7 @@ I try to upload what I can on these repos, but honestly it's too hard to keep lo
 - Maintain various Django API's.
 
 ### Freelance | 2019 - Now
-- Adobe Premiere bot.
+- Scripting in general, example: Adobe Premiere bot.
 - Scraping.
 - web3
 
