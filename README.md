@@ -12,7 +12,7 @@ I try to upload what I can on these repos, but honestly it's too hard to keep lo
 ### Seenka | 2021 - Now
 - Integrated DSP's.
 - Refactor old code.
-- Maintain various Django API's.
+- Maintain various Django API's on a microservices structure.
 
 ### Freelance | 2019 - Now
 - Scripting in general, example: Adobe Premiere bot.
