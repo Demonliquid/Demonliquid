@@ -14,6 +14,9 @@ I try to upload what I can on these repos, but honestly it's too hard to keep lo
 - Refactor old code.
 - Maintain various Django APIs on a microservices structure.
 
+### LFG Labs (AKA Yalm) | 2019 - Now
+- Various collabs on the technical side.
+
 ### Freelance | 2019 - Now
 - Scripting in general, example: Adobe Premiere bot.
 - Scraping.
